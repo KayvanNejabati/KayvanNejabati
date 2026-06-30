@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Kayvan
 
-<!--
-**KayvanNejabati/KayvanNejabati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Technical & Strategy Lead at EY
 
-Here are some ideas to get you started:
+PhD in Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+
+- Agentic AI
+- Multi-agent systems
+- Forecasting
+- Robotics
+- Energy systems
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kayvan-zenouz/)
+
+[Website](https://zenouz.ai)
+
+## Technologies
+
+Python • Azure • Snowflake • PyTorch • LangGraph
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KayvanNejabati)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayvanNejabati)
