@@ -21,7 +21,7 @@ Technical AI lead specialising in **agentic AI** and **multi-LLM architectures**
 - 🔭 Currently leading **agentic forecasting for energy** at EY, with mandates extending into utilities and robotics
 - 🧠 Designing multi-agent systems that stay **inspectable**, with hard safety rules sitting *above* model output
 - 🎓 **PhD in Mathematics** (Exeter) · former university lecturer (400+ students/term)
-- ✍️ Writing and building in public at **[zenouz.ai](https://zenouz.ai)**
+- ✍️ Writing and building in public at **[zenouz.ai](https://zenouz.ai)** and **[https://github.com/zenouz-ai](https://github.com/zenouz-ai)**
 
 ### ⭐ Highlights
 
