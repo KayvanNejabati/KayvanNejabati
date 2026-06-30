@@ -1,6 +1,6 @@
 # Hi 👋 I'm Kayvan
 
-AI Technical & Strategy Lead at EY
+AI & Data Science Lead at EY
 
 PhD in Mathematics
 
