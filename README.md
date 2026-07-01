@@ -27,19 +27,73 @@ Technical AI lead specialising in **agentic AI** and **multi-LLM architectures**
 
 - 🏗️ Built and led a **10-person AI team** from scratch and delivered **£2.05M realised commercial value** in regulated financial services
 - 🗣️ Trusted AI advisor to **Retail CEO / CFO / COO** · **Forum Innovation Award 2026** · speaker at **Dataiku Summit 2025**
-- 🧪 8 open-source R&D projects exploring agentic AI, multi-LLM orchestration, governed memory, and simulation-first robotics
+- 🧪 7 public R&D projects exploring agentic AI, multi-LLM orchestration, governed memory, and simulation-first robotics
 
 ### 🚀 Public projects
 
-| Project | What it is |
-| --- | --- |
-| **[ZenInvest](https://github.com/zenouz-ai/zeninvest)** | Autonomous, multi-LLM **investment committee** — Claude leads strategy, GPT-4o plays skeptic, Gemini scores risk — that debates before any trade. Every safety-critical control lives in deterministic Python no model can override. *~62K LOC · 1,341 passing tests · Dockerized on a VPS.* |
-| **[ZenGrowth](https://zenouz.ai/projects/zengrowth/)** | Evaluation-driven **career operating system**: RAG/GraphRAG + LLM-as-judge that scores senior roles and writes evidence-grounded applications, with a *truth-path invariant* (no claim without traceable evidence) enforced at write time **and** measured as a CI safety gate. |
-| **[ZenRate](https://zenouz.ai/projects/zenrate/)** | Domain-agnostic, plugin-based **pricing & risk engine** wrapping a deterministic actuarial core in collaborating AI agents (risk, market, compliance-with-veto, explainability) — auditable, regulator-ready, FCA & EU AI Act docs. *Open source (MIT).* |
-| **[ZenForecast](https://zenouz.ai/projects/zenforecast/)** | Open-source **agentic forecasting framework** (`forecastagent`) turning forecasting into a continuous predict → decide → act → learn loop over a model-agnostic interface with an append-only audit ledger. |
-| **[ZenArena](https://zenouz.ai/projects/zenarena/)** | Research platform asking whether LLM agents improve through **governed memory alone** — no weight updates — using chess and a Stockfish truth signal as a falsifiable A/B/C benchmark. |
-| **[ZenLab](https://zenouz.ai/projects/zenlab/)** | Offline-first, evidence-driven **agentic-AI research monorepo** — 21 AI/ML topics across 10 tracks, CI-gated, `mypy --strict`, "measure before you build." |
-| **[Stitch](https://zenouz.ai/projects/stitch/)** | Simulation-first **digital twin of a wildlife-safe canal-cleaning robot** — a 6-package ROS 2 / Gazebo system proving station-keeping, perception, and mission autonomy in physics before any hardware is bought. |
+Seven public builds where AI agents meet deterministic cores, evaluation gates, audit trails, and simulation-first engineering.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zenouz-ai/zeninvest">
+        <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
+      </a>
+      <h3 align="center"><a href="https://github.com/zenouz-ai/zeninvest">ZenInvest</a></h3>
+      <p>Autonomous, multi-LLM <strong>investment committee</strong> where Claude leads strategy, GPT-4o plays skeptic, and Gemini scores risk before any trade. Deterministic Python owns every safety-critical control.</p>
+      <p><em>~62K LOC · 1,341 passing tests · Dockerized on a VPS.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/zengrowth/">
+        <img src="branding/readme/zengrowth.png" width="100%" alt="ZenGrowth project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/zengrowth/">ZenGrowth</a></h3>
+      <p>Evaluation-driven <strong>career operating system</strong> using RAG, GraphRAG, and LLM-as-judge to score senior roles and write evidence-grounded applications with traceable truth paths.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/zenrate/">
+        <img src="branding/readme/zenrate.png" width="100%" alt="ZenRate project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/zenrate/">ZenRate</a></h3>
+      <p>Open-source, plugin-based <strong>pricing and risk engine</strong> wrapping a deterministic actuarial core in collaborating AI agents for regulated, auditable insurance workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/zenforecast/">
+        <img src="branding/readme/zenforecast.png" width="100%" alt="ZenForecast project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/zenforecast/">ZenForecast</a></h3>
+      <p>Open-source <strong>agentic forecasting framework</strong> turning forecasting into a continuous predict, decide, act, and learn loop with a model-agnostic interface and append-only audit ledger.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/zenarena/">
+        <img src="branding/readme/zenarena.png" width="100%" alt="ZenArena project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/zenarena/">ZenArena</a></h3>
+      <p>Research platform testing whether LLM agents improve through <strong>governed memory alone</strong>, using chess and Stockfish as a falsifiable benchmark.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/zenlab/">
+        <img src="branding/readme/zenlab.png" width="100%" alt="ZenLab project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/zenlab/">ZenLab</a></h3>
+      <p>Offline-first, evidence-driven <strong>agentic-AI research monorepo</strong> covering 21 AI/ML topics across 10 tracks, with CI gates and strict typing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://zenouz.ai/projects/stitch/">
+        <img src="branding/readme/stitch.png" width="100%" alt="Stitch project poster" />
+      </a>
+      <h3 align="center"><a href="https://zenouz.ai/projects/stitch/">Stitch</a></h3>
+      <p>Simulation-first <strong>digital twin of a wildlife-safe canal-cleaning robot</strong>, built as a ROS 2 and Gazebo system before hardware spend.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ### 🛠️ Tech I reach for
 
