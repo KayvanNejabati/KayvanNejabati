@@ -41,7 +41,6 @@ Seven public builds where AI agents meet deterministic cores, evaluation gates, 
       </a>
       <h3 align="center"><a href="https://github.com/zenouz-ai/zeninvest">ZenInvest</a></h3>
       <p>Autonomous, multi-LLM <strong>investment committee</strong> where Claude leads strategy, GPT-4o plays skeptic, and Gemini scores risk before any trade. Deterministic Python owns every safety-critical control.</p>
-      <p><em>~62K LOC · 1,341 passing tests · Dockerized on a VPS.</em></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://zenouz.ai/projects/zengrowth/">
