@@ -40,55 +40,55 @@ Seven public builds where AI agents meet deterministic cores, evaluation gates, 
         <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
       </a>
       <h3 align="center"><a href="https://github.com/zenouz-ai/zeninvest">ZenInvest</a></h3>
-      <p>Autonomous, multi-LLM <strong>investment committee</strong> where Claude leads strategy, GPT-4o plays skeptic, and Gemini scores risk before any trade. Deterministic Python owns every safety-critical control.</p>
+      <p>Open-source, multi-LLM <strong>investment committee</strong> where Claude researches and proposes, GPT-4o challenges, and Gemini assesses risk before every paper trade. Deterministic Python retains the final veto, keeping capital controls outside the models.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://zenouz.ai/projects/zengrowth/">
         <img src="branding/readme/zengrowth.png" width="100%" alt="ZenGrowth project poster" />
       </a>
       <h3 align="center"><a href="https://zenouz.ai/projects/zengrowth/">ZenGrowth</a></h3>
-      <p>Evaluation-driven <strong>career operating system</strong> using RAG, GraphRAG, and LLM-as-judge to score senior roles and write evidence-grounded applications with traceable truth paths.</p>
+      <p>Local-first <strong>career operating system</strong> that discovers and scores senior roles, then drafts tailored CVs and cover letters from reviewed evidence. Explainable ranking, grounding gates, and human approval keep applications useful without inventing claims.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/zenrate/">
+      <a href="https://zenouz.ai/writing/zenrate-agentic-pricing/">
         <img src="branding/readme/zenrate.png" width="100%" alt="ZenRate project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/zenrate/">ZenRate</a></h3>
-      <p>Open-source, plugin-based <strong>pricing and risk engine</strong> wrapping a deterministic actuarial core in collaborating AI agents for regulated, auditable insurance workflows.</p>
+      <h3 align="center"><a href="https://zenouz.ai/writing/zenrate-agentic-pricing/">ZenRate</a></h3>
+      <p>Plugin-based <strong>pricing and risk engine</strong> where deterministic actuarial models own the maths and collaborating agents advise, explain, and audit. A compliance veto, dual profit/customer scorecard, and bi-temporal decision record make regulated workflows inspectable.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/zenforecast/">
+      <a href="https://zenouz.ai/writing/zenforecast-agentic-forecasting/">
         <img src="branding/readme/zenforecast.png" width="100%" alt="ZenForecast project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/zenforecast/">ZenForecast</a></h3>
-      <p>Open-source <strong>agentic forecasting framework</strong> turning forecasting into a continuous predict, decide, act, and learn loop with a model-agnostic interface and append-only audit ledger.</p>
+      <h3 align="center"><a href="https://zenouz.ai/writing/zenforecast-agentic-forecasting/">ZenForecast</a></h3>
+      <p>Governance-first <strong>forecasting framework</strong> with interchangeable models, probabilistic forecasts, leakage-free walk-forward evaluation, and an append-only audit ledger — the shipped foundation for a future predict → decide → act → learn loop.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/zenarena/">
+      <a href="https://zenouz.ai/writing/zenarena-governed-memory/">
         <img src="branding/readme/zenarena.png" width="100%" alt="ZenArena project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/zenarena/">ZenArena</a></h3>
-      <p>Research platform testing whether LLM agents improve through <strong>governed memory alone</strong>, using chess and Stockfish as a falsifiable benchmark.</p>
+      <h3 align="center"><a href="https://zenouz.ai/writing/zenarena-governed-memory/">ZenArena</a></h3>
+      <p>Falsifiable research platform testing whether a frozen LLM improves through <strong>governed memory alone</strong>. Chess supplies the task; post-hoc Stockfish verification, provenance, validation, deduplication, and decay guard against confident nonsense.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/zenlab/">
+      <a href="https://zenouz.ai/writing/zenlab-agentic-sandbox/">
         <img src="branding/readme/zenlab.png" width="100%" alt="ZenLab project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/zenlab/">ZenLab</a></h3>
-      <p>Offline-first, evidence-driven <strong>agentic-AI research monorepo</strong> covering 21 AI/ML topics across 10 tracks, with CI gates and strict typing.</p>
+      <h3 align="center"><a href="https://zenouz.ai/writing/zenlab-agentic-sandbox/">ZenLab</a></h3>
+      <p>Offline-first <strong>agentic-AI evidence lab</strong> where techniques must earn their way into production through small, runnable experiments. Its 21 topics across 10 tracks share deterministic safety floors, promotion gates, strict typing, and reproducible CI.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/stitch/">
+      <a href="https://zenouz.ai/writing/stitch-digital-twin/">
         <img src="branding/readme/stitch.png" width="100%" alt="Stitch project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/stitch/">Stitch</a></h3>
-      <p>Simulation-first <strong>digital twin of a wildlife-safe canal-cleaning robot</strong>, built as a ROS 2 and Gazebo system before hardware spend.</p>
+      <h3 align="center"><a href="https://zenouz.ai/writing/stitch-digital-twin/">Stitch</a></h3>
+      <p>Simulation-first ROS 2 and Gazebo <strong>digital twin of a wildlife-safe canal-cleaning robot</strong>. Hardware spend stays locked until the twin can hold station, detect litter, complete its mission, and stop for wildlife in simulated physics.</p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
