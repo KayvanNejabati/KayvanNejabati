@@ -43,11 +43,11 @@ Seven public builds where AI agents meet deterministic cores, evaluation gates, 
       <p>Open-source, multi-LLM <strong>investment committee</strong> where Claude researches and proposes, GPT-4o challenges, and Gemini assesses risk before every paper trade. Deterministic Python retains the final veto, keeping capital controls outside the models.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://zenouz.ai/projects/zengrowth/">
+      <a href="https://github.com/zenouz-ai/zengrowth">
         <img src="branding/readme/zengrowth.png" width="100%" alt="ZenGrowth project poster" />
       </a>
-      <h3 align="center"><a href="https://zenouz.ai/projects/zengrowth/">ZenGrowth</a></h3>
-      <p>Local-first <strong>career operating system</strong> that discovers and scores senior roles, then drafts tailored CVs and cover letters from reviewed evidence. Explainable ranking, grounding gates, and human approval keep applications useful without inventing claims.</p>
+      <h3 align="center"><a href="https://github.com/zenouz-ai/zengrowth">ZenGrowth</a></h3>
+      <p>Local-first <strong>career operating system</strong> spanning role discovery, evidence-grounded applications, interviews, offers, onboarding, and departure. Explainable ranking, grounding gates, audit trails, and human approval keep every consequential step inspectable. <a href="https://zenouz.ai/projects/zengrowth/">Read the project brief →</a></p>
     </td>
   </tr>
   <tr>
@@ -111,13 +111,6 @@ Seven public builds where AI agents meet deterministic cores, evaluation gates, 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KayvanNejabati&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvanNejabati&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Top languages" />
-</p>
 
 ---
 
