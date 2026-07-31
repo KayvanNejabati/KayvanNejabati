@@ -38,7 +38,7 @@ Technical AI lead specialising in **agentic AI** and **multi-LLM architectures**
 
 ### 🚀 Public projects
 
-Seven public builds where AI agents meet deterministic cores, evaluation gates, audit trails, and simulation-first engineering.
+Two open-source systems and five research builds documented through public briefs — all built where AI agents meet deterministic cores, evaluation gates, audit trails, and simulation-first engineering.
 
 <table>
   <tr>
