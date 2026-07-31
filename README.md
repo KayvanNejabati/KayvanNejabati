@@ -28,6 +28,7 @@ Technical AI lead specialising in **agentic AI** and **multi-LLM architectures**
 - 🧠 Designing multi-agent systems that stay **inspectable**, with hard safety rules sitting *above* model output
 - 🎓 **PhD in Mathematics** (Exeter) · former university lecturer (400+ students/term)
 - ✍️ Writing and building in public at **[zenouz.ai](https://zenouz.ai)** and **[github.com/zenouz-ai](https://github.com/zenouz-ai)**
+- 🏭 **Sectors:** Energy · Utilities · Financial Services · Robotics · Higher Education & Research
 
 ### ⭐ Highlights
 
