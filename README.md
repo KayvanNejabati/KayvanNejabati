@@ -47,7 +47,7 @@ Seven public builds where AI agents meet deterministic cores, evaluation gates, 
         <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
       </a>
       <h3 align="center"><a href="https://github.com/zenouz-ai/zeninvest">ZenInvest</a></h3>
-      <p>Open-source, multi-LLM <strong>investment committee</strong> where Claude researches and proposes, GPT-4o challenges, and Gemini assesses risk before every paper trade. Deterministic Python retains the final veto, keeping capital controls outside the models.</p>
+      <p>Open-source, multi-LLM <strong>investment committee</strong> where Claude researches and proposes, GPT-4o challenges, and Gemini assesses risk before every paper trade. Deterministic Python retains the final veto, keeping capital controls outside the models. <a href="https://zenouz.ai/projects/zeninvest/">Read the project brief →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/zenouz-ai/zengrowth">
