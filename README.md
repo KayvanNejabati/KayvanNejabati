@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KayvanNejabati">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Lead+%40+EY;Agentic+AI+%26+multi-LLM+systems+architect;Mathematician+%C2%B7+builder+%C2%B7+educator;Building+in+public+at+zenouz.ai" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Lead;Agentic+AI+%26+multi-LLM+systems+architect;Mathematician+%C2%B7+builder+%C2%B7+educator;Building+in+public+at+zenouz.ai" alt="What I do" />
   </a>
 </p>
 
@@ -14,11 +14,17 @@
 
 ---
 
+> **Disclaimer.** The public projects below are personal, non-commercial
+> research and development that I maintain in a personal capacity. They are
+> unrelated to and independent of my professional employment, generate no
+> commercial revenue, and are not affiliated with any employer or registered
+> business. Shared for research and demonstration purposes only.
+
 ### 🧭 What I do
 
 Technical AI lead specialising in **agentic AI** and **multi-LLM architectures** for high-stakes, regulated environments — systems where specialist agents reason while a **deterministic core makes the consequential decisions**, with evaluation, observability, and governance built in. A mathematician at the core, an educator by habit.
 
-- 🔭 Currently leading & building **agentic AI projects for energy** at EY, with mandates extending into utilities and robotics
+- 🔭 Currently leading & building **agentic AI projects for energy**, with mandates extending into utilities and robotics
 - 🧠 Designing multi-agent systems that stay **inspectable**, with hard safety rules sitting *above* model output
 - 🎓 **PhD in Mathematics** (Exeter) · former university lecturer (400+ students/term)
 - ✍️ Writing and building in public at **[zenouz.ai](https://zenouz.ai)** and **[github.com/zenouz-ai](https://github.com/zenouz-ai)**
