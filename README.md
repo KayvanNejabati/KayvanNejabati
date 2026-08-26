@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋 I'm Kayvan</h1>
+<h1 align="center">Kayvan Zenouz</h1>
 
 <p align="center">
-  <a href="https://github.com/KayvanNejabati">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Lead;Agentic+AI+%26+multi-LLM+systems+architect;Mathematician+%C2%B7+builder+%C2%B7+educator;Building+in+public+at+zenouz.ai" alt="What I do" />
-  </a>
+  <strong>AI &amp; Data Science Lead · Agentic systems architect</strong><br/>
+  Mathematician, builder, and educator working on governed AI for consequential decisions.
 </p>
 
 <p align="center">
@@ -12,112 +11,61 @@
   <a href="https://github.com/zenouz-ai"><img src="https://img.shields.io/badge/Public_work-zenouz--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public work" /></a>
 </p>
 
----
+> **Independent work.** The projects below are personal, non-commercial research
+> and development. They are separate from my professional employment and are
+> shared for research and demonstration.
 
-> **Disclaimer.** The public projects below are personal, non-commercial
-> research and development that I maintain in a personal capacity. They are
-> unrelated to and independent of my professional employment, generate no
-> commercial revenue, and are not affiliated with any employer or registered
-> business. Shared for research and demonstration purposes only.
+## What I build
 
-### 🧭 What I do
+I lead and build agentic AI systems for high-stakes, regulated environments.
+Specialist agents can research, reason, and explain, while deterministic software
+retains consequential decisions, safety rules, evaluation, and auditability.
 
-Technical AI lead specialising in **agentic AI** and **multi-LLM architectures** for high-stakes, regulated environments — systems where specialist agents reason while a **deterministic core makes the consequential decisions**, with evaluation, observability, and governance built in. A mathematician at the core, an educator by habit.
+- Current focus: energy, utilities, financial services, and simulation-first robotics
+- PhD in Mathematics from Exeter and former university lecturer
+- Public work: inspectable multi-agent systems, governed memory, forecasting, pricing, and human-controlled automation
 
-- 🔭 Currently leading & building **agentic AI projects for energy**, with mandates extending into utilities and robotics
-- 🧠 Designing multi-agent systems that stay **inspectable**, with hard safety rules sitting *above* model output
-- 🎓 **PhD in Mathematics** (Exeter) · former university lecturer (400+ students/term)
-- ✍️ Writing and building in public at **[zenouz.ai](https://zenouz.ai)** and **[github.com/zenouz-ai](https://github.com/zenouz-ai)**
-- 🏭 **Sectors:** Energy · Utilities · Financial Services · Robotics · Higher Education & Research
+## Selected impact
 
-### ⭐ Highlights
+- Built and led a 10-person AI team and delivered £2.05M realised commercial value in regulated financial services
+- AI advisor to retail executive leadership, Forum Innovation Award 2026, and Dataiku Summit 2025 speaker
+- Maintains two open-source systems and five documented research builds
 
-- 🏗️ Built and led a **10-person AI team** from scratch and delivered **£2.05M realised commercial value** in regulated financial services
-- 🗣️ Trusted AI advisor to **Retail CEO / CFO / COO** · **Forum Innovation Award 2026** · speaker at **Dataiku Summit 2025**
-- 🧪 7 public R&D projects exploring agentic AI, multi-LLM orchestration, governed memory, and simulation-first robotics
+## Open-source systems
 
-### 🚀 Public projects
+### [ZenInvest](https://github.com/zenouz-ai/zeninvest)
 
-Two open-source systems and five research builds documented through public briefs — all built where AI agents meet deterministic cores, evaluation gates, audit trails, and simulation-first engineering.
+<a href="https://github.com/zenouz-ai/zeninvest">
+  <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
+</a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/zenouz-ai/zeninvest">
-        <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
-      </a>
-      <h3 align="center"><a href="https://github.com/zenouz-ai/zeninvest">ZenInvest</a></h3>
-      <p>Open-source, multi-LLM <strong>investment committee</strong> where Claude researches and proposes, GPT-4o challenges, and Gemini assesses risk before every paper trade. Deterministic Python retains the final veto, keeping capital controls outside the models. <a href="https://zenouz.ai/projects/zeninvest/">Read the project brief →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/zenouz-ai/zengrowth">
-        <img src="branding/readme/zengrowth.png" width="100%" alt="ZenGrowth project poster" />
-      </a>
-      <h3 align="center"><a href="https://github.com/zenouz-ai/zengrowth">ZenGrowth</a></h3>
-      <p>Local-first <strong>career operating system</strong> spanning role discovery, evidence-grounded applications, interviews, offers, onboarding, and departure. Explainable ranking, grounding gates, audit trails, and human approval keep every consequential step inspectable. <a href="https://zenouz.ai/projects/zengrowth/">Read the project brief →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zenouz.ai/writing/zenrate-agentic-pricing/">
-        <img src="branding/readme/zenrate.png" width="100%" alt="ZenRate project poster" />
-      </a>
-      <h3 align="center"><a href="https://zenouz.ai/writing/zenrate-agentic-pricing/">ZenRate</a></h3>
-      <p>Plugin-based <strong>pricing and risk engine</strong> where deterministic actuarial models own the maths and collaborating agents advise, explain, and audit. A compliance veto, dual profit/customer scorecard, and bi-temporal decision record make regulated workflows inspectable.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://zenouz.ai/writing/zenforecast-agentic-forecasting/">
-        <img src="branding/readme/zenforecast.png" width="100%" alt="ZenForecast project poster" />
-      </a>
-      <h3 align="center"><a href="https://zenouz.ai/writing/zenforecast-agentic-forecasting/">ZenForecast</a></h3>
-      <p>Governance-first <strong>forecasting framework</strong> with interchangeable models, probabilistic forecasts, leakage-free walk-forward evaluation, and an append-only audit ledger — the shipped foundation for a future predict → decide → act → learn loop.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zenouz.ai/writing/zenarena-governed-memory/">
-        <img src="branding/readme/zenarena.png" width="100%" alt="ZenArena project poster" />
-      </a>
-      <h3 align="center"><a href="https://zenouz.ai/writing/zenarena-governed-memory/">ZenArena</a></h3>
-      <p>Falsifiable research platform testing whether a frozen LLM improves through <strong>governed memory alone</strong>. Chess supplies the task; post-hoc Stockfish verification, provenance, validation, deduplication, and decay guard against confident nonsense.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://zenouz.ai/writing/zenlab-agentic-sandbox/">
-        <img src="branding/readme/zenlab.png" width="100%" alt="ZenLab project poster" />
-      </a>
-      <h3 align="center"><a href="https://zenouz.ai/writing/zenlab-agentic-sandbox/">ZenLab</a></h3>
-      <p>Offline-first <strong>agentic-AI evidence lab</strong> where techniques must earn their way into production through small, runnable experiments. Its 21 topics across 10 tracks share deterministic safety floors, promotion gates, strict typing, and reproducible CI.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zenouz.ai/writing/stitch-digital-twin/">
-        <img src="branding/readme/stitch.png" width="100%" alt="Stitch project poster" />
-      </a>
-      <h3 align="center"><a href="https://zenouz.ai/writing/stitch-digital-twin/">Stitch</a></h3>
-      <p>Simulation-first ROS 2 and Gazebo <strong>digital twin of a wildlife-safe canal-cleaning robot</strong>. Hardware spend stays locked until the twin can hold station, detect litter, complete its mission, and stop for wildlife in simulated physics.</p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+A multi-LLM investment committee with deterministic Python risk controls. Models
+research, challenge, and assess proposals while code retains the trading veto.
+[Project brief](https://zenouz.ai/projects/zeninvest/)
 
-### 🛠️ Tech I reach for
+### [ZenGrowth](https://github.com/zenouz-ai/zengrowth)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-<br/>
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+<a href="https://github.com/zenouz-ai/zengrowth">
+  <img src="branding/readme/zengrowth.png" width="100%" alt="ZenGrowth project poster" />
+</a>
+
+A local-first career operating system for role discovery, evidence-grounded
+materials, interviews, offers, and later career transitions. Grounding gates,
+audit trails, and human approval keep external actions under operator control.
+[Project brief](https://zenouz.ai/projects/zengrowth/)
+
+## Research portfolio
+
+- [ZenRate](https://zenouz.ai/writing/zenrate-agentic-pricing/): deterministic pricing and risk models advised and audited by collaborating agents
+- [ZenForecast](https://zenouz.ai/writing/zenforecast-agentic-forecasting/): probabilistic forecasting with leakage-resistant evaluation and an append-only decision record
+- [ZenArena](https://zenouz.ai/writing/zenarena-governed-memory/): a falsifiable test of whether a frozen LLM can improve through governed memory
+- [ZenLab](https://zenouz.ai/writing/zenlab-agentic-sandbox/): small reproducible experiments used to qualify agentic techniques before production
+- [Stitch](https://zenouz.ai/writing/stitch-digital-twin/): a ROS 2 and Gazebo digital twin for a wildlife-safe canal-cleaning robot
+
+## Core stack
+
+Python · TypeScript · FastAPI · PyTorch · Claude · LangGraph · ROS 2 · Azure ·
+Databricks · Snowflake · Docker · Kubernetes · PostgreSQL · Neo4j
 
 ---
 
