@@ -15,7 +15,7 @@
 > and development. They are separate from my professional employment and are
 > shared for research and demonstration.
 
-## What I build
+## Focus
 
 I lead and build agentic AI systems for high-stakes, regulated environments.
 Specialist agents can research, reason, and explain, while deterministic software
@@ -39,9 +39,13 @@ retains consequential decisions, safety rules, evaluation, and auditability.
   <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
 </a>
 
-A multi-LLM investment committee with deterministic Python risk controls. Models
-research, challenge, and assess proposals while code retains the trading veto.
-[Project brief](https://zenouz.ai/projects/zeninvest/)
+An agentic investment committee in which distinct strategy, challenge, and
+risk roles examine each proposal. Deterministic Python keeps the trading veto,
+portfolio limits, and audit trail outside the models. The public system runs on a
+paper-trading account, so no real capital is at risk.
+
+**Pattern:** multi-vendor reasoning · deterministic risk controls · evidence-gated learning<br/>
+**Explore:** [repository](https://github.com/zenouz-ai/zeninvest) · [project brief](https://zenouz.ai/projects/zeninvest/)
 
 ### [ZenGrowth](https://github.com/zenouz-ai/zengrowth)
 
@@ -50,22 +54,85 @@ research, challenge, and assess proposals while code retains the trading veto.
 </a>
 
 A local-first career operating system for role discovery, evidence-grounded
-materials, interviews, offers, and later career transitions. Grounding gates,
-audit trails, and human approval keep external actions under operator control.
-[Project brief](https://zenouz.ai/projects/zengrowth/)
+applications, interviews, offers, and later career transitions. Grounding gates
+block unsupported claims, while audit trails and human approval keep external
+actions under operator control.
 
-## Research portfolio
+**Pattern:** verified evidence · explainable ranking · human-controlled workflow<br/>
+**Explore:** [repository](https://github.com/zenouz-ai/zengrowth) · [project brief](https://zenouz.ai/projects/zengrowth/)
 
-- [ZenRate](https://zenouz.ai/writing/zenrate-agentic-pricing/): deterministic pricing and risk models advised and audited by collaborating agents
-- [ZenForecast](https://zenouz.ai/writing/zenforecast-agentic-forecasting/): probabilistic forecasting with leakage-resistant evaluation and an append-only decision record
-- [ZenArena](https://zenouz.ai/writing/zenarena-governed-memory/): a falsifiable test of whether a frozen LLM can improve through governed memory
-- [ZenLab](https://zenouz.ai/writing/zenlab-agentic-sandbox/): small reproducible experiments used to qualify agentic techniques before production
-- [Stitch](https://zenouz.ai/writing/stitch-digital-twin/): a ROS 2 and Gazebo digital twin for a wildlife-safe canal-cleaning robot
+## Research builds
+
+Five focused builds test reusable ideas before they become product claims.
+
+### [ZenRate](https://zenouz.ai/writing/zenrate-agentic-pricing/)
+
+<a href="https://zenouz.ai/writing/zenrate-agentic-pricing/">
+  <img src="branding/readme/zenrate.png" width="100%" alt="ZenRate project poster" />
+</a>
+
+A plugin-based pricing and risk engine where deterministic actuarial models own
+the maths and collaborating agents advise, explain, and audit. A compliance veto,
+dual customer and profit scorecard, and bi-temporal record make each decision inspectable.
+
+### [ZenForecast](https://zenouz.ai/writing/zenforecast-agentic-forecasting/)
+
+<a href="https://zenouz.ai/writing/zenforecast-agentic-forecasting/">
+  <img src="branding/readme/zenforecast.png" width="100%" alt="ZenForecast project poster" />
+</a>
+
+A governance-first forecasting foundation with interchangeable models,
+probabilistic outputs, leakage-resistant walk-forward evaluation, and an
+append-only decision ledger.
+
+### [ZenArena](https://zenouz.ai/writing/zenarena-governed-memory/)
+
+<a href="https://zenouz.ai/writing/zenarena-governed-memory/">
+  <img src="branding/readme/zenarena.png" width="100%" alt="ZenArena project poster" />
+</a>
+
+A falsifiable research platform testing whether a frozen model can improve
+through governed memory alone. Chess supplies the task; post-hoc verification,
+provenance, validation, deduplication, and decay guard against unreliable lessons.
+
+### [ZenLab](https://zenouz.ai/writing/zenlab-agentic-sandbox/)
+
+<a href="https://zenouz.ai/writing/zenlab-agentic-sandbox/">
+  <img src="branding/readme/zenlab.png" width="100%" alt="ZenLab project poster" />
+</a>
+
+An offline-first evidence lab where agentic techniques must earn their way into
+production through small, reproducible experiments, deterministic safety floors,
+and explicit promotion gates.
+
+### [Stitch](https://zenouz.ai/writing/stitch-digital-twin/)
+
+<a href="https://zenouz.ai/writing/stitch-digital-twin/">
+  <img src="branding/readme/stitch.png" width="100%" alt="Stitch project poster" />
+</a>
+
+A ROS 2 and Gazebo digital twin for a wildlife-safe canal-cleaning robot. Hardware
+spend stays locked until the simulated system can hold station, detect litter,
+complete its mission, and stop safely for wildlife.
 
 ## Core stack
 
-Python · TypeScript · FastAPI · PyTorch · Claude · LangGraph · ROS 2 · Azure ·
-Databricks · Snowflake · Docker · Kubernetes · PostgreSQL · Neo4j
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+</p>
 
 ---
 
