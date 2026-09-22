@@ -1,8 +1,8 @@
 <h1 align="center">Kayvan Zenouz</h1>
 
 <p align="center">
-  <strong>AI &amp; Data Science Lead · Agentic systems architect</strong><br/>
-  Mathematician, builder, and educator working on governed AI for consequential decisions.
+  <strong>AI leader · PhD Mathematics · Enterprise AI strategy, governed agentic systems, and responsible transformation</strong><br/>
+  Research, consulting, delivery. Governed AI for consequential decisions.
 </p>
 
 <p align="center">
@@ -17,19 +17,23 @@
 
 ## Focus
 
-I lead and build agentic AI systems for high-stakes, regulated environments.
-Specialist agents can research, reason, and explain, while deterministic software
-retains consequential decisions, safety rules, evaluation, and auditability.
+I lead AI strategy, teams, and delivery in regulated industries, and I build
+agentic systems where specialist agents research, reason, and explain while
+deterministic software retains consequential decisions, safety rules,
+evaluation, and auditability.
 
-- Current focus: energy, utilities, financial services, and simulation-first robotics
-- PhD in Mathematics from Exeter and former university lecturer
-- Public work: inspectable multi-agent systems, governed memory, forecasting, pricing, and human-controlled automation
+- Sectors: finance, insurance, energy and utilities, and higher education
+- Leadership: enterprise AI strategy, responsible transformation, and AI governance, from FTSE-100 financial services to Big Four consulting
+- Research: PhD in Mathematics (Exeter), peer-reviewed pure mathematics, and pre-registered AI studies
+- Building: open-source systems and research builds that turn new ideas into tested practice
 
 ## Selected impact
 
-- Built and led a 10-person AI team and delivered £2.05M realised commercial value in regulated financial services
-- AI advisor to retail executive leadership, Forum Innovation Award 2026, and Dataiku Summit 2025 speaker
-- Maintains two open-source systems and five documented research builds
+- Built and led a 10-person AI and data science function in FTSE-100 financial services, managing a £1M+ budget and delivering £2M+ realised commercial value
+- Leads agentic AI strategy and delivery in Big Four consulting across energy, utilities, and other regulated sectors
+- Forum Innovation Award 2026, Dataiku Summit 2025 speaker, and AI advisor to retail executive leadership
+- Former university lecturer in mathematics, statistics, and machine learning, teaching 400+ students per term
+- Maintains two open-source systems, two working papers, and a set of documented research builds
 
 ## Open-source systems
 
@@ -39,13 +43,14 @@ retains consequential decisions, safety rules, evaluation, and auditability.
   <img src="branding/readme/zeninvest.png" width="100%" alt="ZenInvest project poster" />
 </a>
 
-An agentic investment committee in which distinct strategy, challenge, and
-risk roles examine each proposal. Deterministic Python keeps the trading veto,
-portfolio limits, and audit trail outside the models. The public system runs on a
-paper-trading account, so no real capital is at risk.
+An open, audited experiment in where LLMs add value to investment decisions.
+A multi-LLM committee traded a paper account for six months and showed no entry
+edge; the evidence is published as a working paper. The redesign, ZEN-2, tests a
+thesis-driven agent against index and rules-only arms under a decision rule
+frozen in advance, while deterministic Python keeps the veto and audit trail.
 
-**Pattern:** multi-vendor reasoning · deterministic risk controls · evidence-gated learning<br/>
-**Explore:** [repository](https://github.com/zenouz-ai/zeninvest) · [project brief](https://zenouz.ai/projects/zeninvest/)
+**Pattern:** published negative results · control arms · deterministic risk controls<br/>
+**Explore:** [repository](https://github.com/zenouz-ai/zeninvest) · [project brief](https://zenouz.ai/projects/zeninvest/) · [working paper](https://github.com/zenouz-ai/zeninvest/blob/main/docs/HONEST_AI_VALUE_REVIEW.md)
 
 ### [ZenGrowth](https://github.com/zenouz-ai/zengrowth)
 
@@ -59,7 +64,14 @@ block unsupported claims, while audit trails and human approval keep external
 actions under operator control.
 
 **Pattern:** verified evidence · explainable ranking · human-controlled workflow<br/>
-**Explore:** [repository](https://github.com/zenouz-ai/zengrowth) · [project brief](https://zenouz.ai/projects/zengrowth/)
+**Explore:** [repository](https://github.com/zenouz-ai/zengrowth) · [project brief](https://zenouz.ai/projects/zengrowth/) · [working paper](https://github.com/zenouz-ai/zengrowth/blob/main/output/pdf/zengrowth-grounded-not-automated-v0.4.pdf)
+
+## Research and publications
+
+- **Pure mathematics:** [Skew braces and Hopf-Galois structures of Heisenberg type](https://doi.org/10.1016/j.jalgebra.2019.01.012), *Journal of Algebra* 524 (2019); PhD thesis [On Hopf-Galois structures and skew braces of order p³](https://ore.exeter.ac.uk/repository/handle/10871/32248), University of Exeter (2018)
+- **Working papers:** [Where LLMs actually add value](https://github.com/zenouz-ai/zeninvest/blob/main/docs/HONEST_AI_VALUE_REVIEW.md) (ZenInvest) and [Grounded, not automated](https://github.com/zenouz-ai/zengrowth/blob/main/output/pdf/zengrowth-grounded-not-automated-v0.4.pdf) (ZenGrowth)
+- **Pre-registered study:** [a solver-free graph-theoretic mask for grid-control RL](https://zenouz.ai/writing/matroid-grid-rl-negative-result/), reported as a negative result
+- **Everything in one place:** [zenouz.ai/research](https://zenouz.ai/research/)
 
 ## Research builds
 
