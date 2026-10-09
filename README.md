@@ -1,7 +1,7 @@
 <h1 align="center">Kayvan Zenouz</h1>
 
 <p align="center">
-  <strong>AI leader · PhD Mathematics · Enterprise AI strategy, governed agentic systems, and responsible transformation</strong><br/>
+  <strong>Director of AI · PhD Mathematics · Enterprise AI strategy, governed agentic systems, and responsible transformation</strong><br/>
   Research, consulting, delivery. Governed AI for consequential decisions.
 </p>
 
@@ -17,20 +17,22 @@
 
 ## Focus
 
-I lead AI strategy, teams, and delivery in regulated industries, and I build
+I am Director of AI in a Chief Data Office in commercial insurance, building
+enterprise AI strategy, governance, and delivery. Independently, I build
 agentic systems where specialist agents research, reason, and explain while
 deterministic software retains consequential decisions, safety rules,
 evaluation, and auditability.
 
 - Sectors: finance, insurance, energy and utilities, and higher education
-- Leadership: enterprise AI strategy, responsible transformation, and AI governance, from FTSE-100 financial services to Big Four consulting
+- Leadership: Director of AI in commercial insurance today, after enterprise AI strategy, responsible transformation, and AI governance roles in FTSE-100 financial services and Big Four consulting
 - Research: PhD in Mathematics (Exeter), peer-reviewed pure mathematics, and pre-registered AI studies
 - Building: open-source systems and research builds that turn new ideas into tested practice
 
 ## Selected impact
 
+- Director of AI in a Chief Data Office in commercial insurance, leading enterprise AI strategy and governance
 - Built and led a 10-person AI and data science function in FTSE-100 financial services, managing a £1M+ budget and delivering £2M+ realised commercial value
-- Leads agentic AI strategy and delivery in Big Four consulting across energy, utilities, and other regulated sectors
+- Led agentic AI strategy and delivery in Big Four consulting across energy, utilities, and other regulated sectors
 - Forum Innovation Award 2026, Dataiku Summit 2025 speaker, and AI advisor to retail executive leadership
 - Former university lecturer in mathematics, statistics, and machine learning, teaching 400+ students per term
 - Maintains two open-source systems, two working papers, and a set of documented research builds
