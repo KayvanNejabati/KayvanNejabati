@@ -35,7 +35,7 @@ evaluation, and auditability.
 - Led agentic AI strategy and delivery in Big Four consulting across energy, utilities, and other regulated sectors
 - Forum Innovation Award 2026, Dataiku Summit 2025 speaker, and AI advisor to retail executive leadership
 - Former university lecturer in mathematics, statistics, and machine learning, teaching 400+ students per term
-- Maintains two open-source systems, two working papers, and a set of documented research builds
+- Maintains two open-source systems, an open generative video artwork, two working papers, and a set of documented research builds
 
 ## Open-source systems
 
@@ -67,6 +67,22 @@ actions under operator control.
 
 **Pattern:** verified evidence · explainable ranking · human-controlled workflow<br/>
 **Explore:** [repository](https://github.com/zenouz-ai/zengrowth) · [project brief](https://zenouz.ai/projects/zengrowth/) · [working paper](https://github.com/zenouz-ai/zengrowth/blob/main/output/pdf/zengrowth-grounded-not-automated-v0.4.pdf)
+
+## Generative art
+
+### [Other People's Windows](https://github.com/zenouz-ai/other-peoples-windows)
+
+<a href="https://zenouz.ai/projects/other-peoples-windows/">
+  <img src="branding/readme/other-peoples-windows.jpg" width="100%" alt="Other People's Windows: six AI-generated London windows at dusk" />
+</a>
+
+A generative video artwork and an open investigation into directing image and
+video models: thirty AI-generated London windows at dusk, from closing time to
+bedtime, toured by a virtual camera. Image and video models were compared on the
+same prompts, and every take is measured for camera drift, tremble, and unwanted
+sound before it is repaired and looped in code.
+
+**Explore:** [repository](https://github.com/zenouz-ai/other-peoples-windows) · [project page](https://zenouz.ai/projects/other-peoples-windows/) · [film](https://youtu.be/MfroqpR3UYQ) · [findings](https://github.com/zenouz-ai/other-peoples-windows/blob/main/docs/FINDINGS.md)
 
 ## Research and publications
 
