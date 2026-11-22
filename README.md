@@ -82,7 +82,7 @@ bedtime, toured by a virtual camera. Image and video models were compared on the
 same prompts, and every take is measured for camera drift, tremble, and unwanted
 sound before it is repaired and looped in code.
 
-**Explore:** [repository](https://github.com/zenouz-ai/other-peoples-windows) · [project page](https://zenouz.ai/projects/other-peoples-windows/) · [film](https://youtu.be/MfroqpR3UYQ) · [findings](https://github.com/zenouz-ai/other-peoples-windows/blob/main/docs/FINDINGS.md)
+**Explore:** [repository](https://github.com/zenouz-ai/other-peoples-windows) · [project page](https://zenouz.ai/projects/other-peoples-windows/) · [film](https://youtu.be/0D90ZbpSdlI) · [findings](https://github.com/zenouz-ai/other-peoples-windows/blob/main/docs/FINDINGS.md)
 
 ## Research and publications
 
